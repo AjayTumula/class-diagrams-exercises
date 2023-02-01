@@ -1,1 +1,0 @@
-# class-diagrams-exercises
